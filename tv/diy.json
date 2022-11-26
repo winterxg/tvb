@@ -13,7 +13,7 @@
             "name" : "Alist[DRPY]",
             "type" : 3,
             "api" : "https://winterxg.github.io/tvb/drpy/lib/alist.min.js",
-            "ext" : "https://winterxg.github.io/tvb/drpy/js/alist.json"
+            "ext" : "https://winterxg.github.io/tvb/drpy/js/alist.json;50;video"
         },
             {
             "key" : "drpy_js_360影视",
