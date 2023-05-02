@@ -18,20 +18,23 @@ TVBS56,https://www.youtube.com/watch?v=YvdcZ_jpLXE
 东森财经股市,https://www.youtube.com/watch?v=LbS-xQ67fos
 
 🍅YouTube国际新闻,#genre#
+Sky News,https://www.youtube.com/watch?v=9Auq9mYxFEE
 abc News,https://www.youtube.com/watch?v=w_Ma8oQLmSM
 CBN News,https://www.youtube.com/watch?v=CG2XDTgvZPo
 NBC NEWS,https://www.youtube.com/watch?v=o1ZydFM-upg
 NBC2 News,https://www.youtube.com/watch?v=MJB6CUxvZcU
 NEWSMAX,https://www.youtube.com/watch?v=QldgdsYPZDc
 News12 NewYork,https://www.youtube.com/watch?v=q8KjGbX0-6U
+GB News,https://www.youtube.com/watch?v=8WX6YL9JnLw
+ABCNews,https://www.youtube.com/watch?v=vOTiJkg1voo
 Al Jazeera,https://www.youtube.com/watch?v=gCNeDWCI0vo
-Sky News,https://www.youtube.com/watch?v=9Auq9mYxFEE
 Euronews,https://www.youtube.com/watch?v=pykpO5kQJ98
+TRT World,https://www.youtube.com/watch?v=5VF4aor94gw
 DW,https://www.youtube.com/watch?v=pqabxBKzZ6M
 彭博财经台,https://www.youtube.com/watch?v=dp8PhLsUcFE
-ABCNews,https://www.youtube.com/watch?v=vOTiJkg1voo
 France24,https://www.youtube.com/watch?v=h3MuIUNCCzI
 CNALives,https://www.youtube.com/watch?v=XWq5kBlakcQ
+TD Ameritrade,https://www.youtube.com/watch?v=SG1Lc0QCD_Y
 
 🍅YouTube日韩,#genre#
 KBC NEWS,https://www.youtube.com/watch?v=EdHeJBkwGno
