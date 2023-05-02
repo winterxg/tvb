@@ -1,20 +1,31 @@
 🍅YouTube新闻,#genre#
-中视新闻,https://www.youtube.com/watch?v=TCnaIE_SAtM
-TVBS新聞,https://www.youtube.com/watch?v=2mCSYvcfhtc
-TVBS56,https://www.youtube.com/watch?v=YvdcZ_jpLXE
+凤凰卫视资讯台,https://www.youtube.com/watch?v=dmDg7NfUoSw
+新唐人亞太,https://www.youtube.com/watch?v=WIhgU_mc05A
 中天新闻,https://www.youtube.com/watch?v=oIgbl7t0S_w
 中天新闻2台,https://www.youtube.com/watch?v=WPfPjbOLNfE
+TVBS新聞,https://www.youtube.com/watch?v=2mCSYvcfhtc
+TVBS56,https://www.youtube.com/watch?v=YvdcZ_jpLXE
+TVBS優選頻道,https://www.youtube.com/watch?v=k3LcTtw7jFc
 台视新闻台,https://www.youtube.com/watch?v=xL0ch83RAK8
 寰宇新闻,https://www.youtube.com/watch?v=B7Zp3d6xXWw
 三立新闻台,https://www.youtube.com/watch?v=CKjSm5ZeehE
 三立新聞+,https://www.youtube.com/watch?v=jlldIiGA5bU
 民视新闻台,https://www.youtube.com/watch?v=ylYJSBUgaMA
+中视新闻,https://www.youtube.com/watch?v=TCnaIE_SAtM
 鏡新闻,https://www.youtube.com/watch?v=5n0y6b0Q25o
 三立Live,https://www.youtube.com/watch?v=FoBfXvlOR6I
 東森Live,https://www.youtube.com/watch?v=R2iMq5LKXco
 東森財經新聞,https://www.youtube.com/watch?v=WHEPzbFA3hw
 东森财经股市,https://www.youtube.com/watch?v=LbS-xQ67fos
 新唐人LIVE,https://www.youtube.com/watch?v=WIhgU_mc05A
+
+🍅YouTube国际新闻,#genre#
+abc News,https://www.youtube.com/watch?v=w_Ma8oQLmSM
+CBN News,https://www.youtube.com/watch?v=CG2XDTgvZPo
+NBC NEWS,https://www.youtube.com/watch?v=o1ZydFM-upg
+NBC2 News,https://www.youtube.com/watch?v=MJB6CUxvZcU
+NEWSMAX,https://www.youtube.com/watch?v=QldgdsYPZDc
+News12 NewYork,https://www.youtube.com/watch?v=q8KjGbX0-6U
 Al Jazeera,https://www.youtube.com/watch?v=gCNeDWCI0vo
 Sky News,https://www.youtube.com/watch?v=9Auq9mYxFEE
 Euronews,https://www.youtube.com/watch?v=pykpO5kQJ98
