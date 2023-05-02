@@ -5,7 +5,6 @@
 中天新闻2台,https://www.youtube.com/watch?v=WPfPjbOLNfE
 TVBS新聞,https://www.youtube.com/watch?v=2mCSYvcfhtc
 TVBS56,https://www.youtube.com/watch?v=YvdcZ_jpLXE
-TVBS優選頻道,https://www.youtube.com/watch?v=k3LcTtw7jFc
 台视新闻台,https://www.youtube.com/watch?v=xL0ch83RAK8
 寰宇新闻,https://www.youtube.com/watch?v=B7Zp3d6xXWw
 三立新闻台,https://www.youtube.com/watch?v=CKjSm5ZeehE
@@ -33,25 +32,18 @@ DW,https://www.youtube.com/watch?v=pqabxBKzZ6M
 ABCNews,https://www.youtube.com/watch?v=vOTiJkg1voo
 France24,https://www.youtube.com/watch?v=h3MuIUNCCzI
 CNALives,https://www.youtube.com/watch?v=XWq5kBlakcQ
-LiveNOW from FOX,https://www.livenowfox.com
-LiveNOW,https://www.livenowfox.com/live
 
-🍅YouTube儿童,#genre#
-迪士尼,https://www.youtube.com/watch?v=LMj-ClGOg-E
-宝宝巴士,https://www.youtube.com/watch?v=7x5rBZQ7c08
-乐享玩具,https://www.youtube.com/watch?v=5EStqnMOAgo
-乐享玩具,https://www.youtube.com/watch?v=PV77hwUDTeI
-宝宝鲨鱼,https://www.youtube.com/watch?v=R9IceVKKBp4
-数字积木1,https://www.youtube.com/watch?v=fNcCCOrJXBc
-数字积木2,https://www.youtube.com/watch?v=3OUBBfXOFKs
-小猪佩奇,https://www.youtube.com/watch?v=0imE4XZYdFE
-小猪佩奇,https://www.youtube.com/watch?v=Ozt8n3nzvf4
-小猪佩奇,https://www.youtube.com/watch?v=bO7f8rGFurg
-小猪佩奇,https://www.youtube.com/watch?v=RImOtlRg4Ko
-小猪佩奇,https://www.youtube.com/watch?v=cCh0QZ8ZrWQ
-碰碰狐,https://www.youtube.com/watch?v=FVn8Poh6X6I
-碰碰狐,https://www.youtube.com/watch?v=a5P9DVdYMVg
-SuperSimpleSong,https://www.youtube.com/watch?v=5tmGiOMcw84
-SuperSimpleSong,https://www.youtube.com/watch?v=mYKgqlRtGMM
-SuperSimpleSong,https://www.youtube.com/watch?v=lVblN5kufkg
-The Good Life Radio,https://www.youtube.com/watch?v=36YnV9STBqc
+🍅YouTube日韩,#genre#
+KBC NEWS,https://www.youtube.com/watch?v=EdHeJBkwGno
+JapaNews24,https://www.youtube.com/watch?v=coYw-eVU0Ks
+ANNnewsCH,https://www.youtube.com/watch?v=mB-prl5HTV8
+TBS NEWS DIG,https://www.youtube.com/watch?v=nwVfs8pDPI4
+名古屋电视台,https://www.youtube.com/watch?v=-C6FE2m7kX8
+広島ニュース,https://www.youtube.com/watch?v=e2pgLUmaxGs
+北海道ニュース,https://www.youtube.com/watch?v=xWPD8KDHUH8
+北海道weekend,https://www.youtube.com/watch?v=L0_P_KJVpKc
+KansaiNews24,https://www.youtube.com/watch?v=EqdxY34Y6LA
+MBCNEWS,https://www.youtube.com/watch?v=q-Wv4Pvt-5A
+KBS,https://www.youtube.com/watch?v=HnfpTMtfFk8
+YonhapnewsTV,https://www.youtube.com/watch?v=0GN8t2u3flc
+YTN,https://www.youtube.com/watch?v=vEO6wO0QsX8
