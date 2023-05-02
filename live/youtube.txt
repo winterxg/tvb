@@ -33,6 +33,8 @@ DW,https://www.youtube.com/watch?v=pqabxBKzZ6M
 ABCNews,https://www.youtube.com/watch?v=vOTiJkg1voo
 France24,https://www.youtube.com/watch?v=h3MuIUNCCzI
 CNALives,https://www.youtube.com/watch?v=XWq5kBlakcQ
+LiveNOW from FOX,https://www.livenowfox.com
+LiveNOW,https://www.livenowfox.com/live
 
 🍅YouTube儿童,#genre#
 迪士尼,https://www.youtube.com/watch?v=LMj-ClGOg-E
