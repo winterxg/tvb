@@ -35,6 +35,8 @@ DW,https://www.youtube.com/watch?v=pqabxBKzZ6M
 France24,https://www.youtube.com/watch?v=h3MuIUNCCzI
 CNALives,https://www.youtube.com/watch?v=XWq5kBlakcQ
 TD Ameritrade,https://www.youtube.com/watch?v=SG1Lc0QCD_Y
+fox5dc,https://www.fox5dc.com/live
+fox5ny,https://www.fox5ny.com/live
 
 🍅YouTube日韩,#genre#
 KBC NEWS,https://www.youtube.com/watch?v=EdHeJBkwGno
