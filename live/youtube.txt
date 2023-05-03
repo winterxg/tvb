@@ -20,7 +20,6 @@ TVBS56,https://www.youtube.com/watch?v=YvdcZ_jpLXE
 🍅YouTube国际新闻,#genre#
 Sky News,https://www.youtube.com/watch?v=9Auq9mYxFEE
 abc News,https://www.youtube.com/watch?v=w_Ma8oQLmSM
-CBN News,https://www.youtube.com/watch?v=CG2XDTgvZPo
 NBC NEWS,https://www.youtube.com/watch?v=o1ZydFM-upg
 NBC2 News,https://www.youtube.com/watch?v=MJB6CUxvZcU
 NEWSMAX,https://www.youtube.com/watch?v=QldgdsYPZDc
@@ -35,6 +34,7 @@ DW,https://www.youtube.com/watch?v=pqabxBKzZ6M
 France24,https://www.youtube.com/watch?v=h3MuIUNCCzI
 CNALives,https://www.youtube.com/watch?v=XWq5kBlakcQ
 TD Ameritrade,https://www.youtube.com/watch?v=SG1Lc0QCD_Y
+CBN News,https://www.youtube.com/watch?v=CG2XDTgvZPo
 
 🍅YouTube日韩,#genre#
 KBC NEWS,https://www.youtube.com/watch?v=EdHeJBkwGno
