@@ -1,6 +1,5 @@
 🍅YouTube新闻,#genre#
 凤凰卫视资讯台,https://www.youtube.com/watch?v=dmDg7NfUoSw
-新唐人亞太,https://www.youtube.com/watch?v=WIhgU_mc05A
 中天新闻,https://www.youtube.com/watch?v=oIgbl7t0S_w
 中天新闻2台,https://www.youtube.com/watch?v=WPfPjbOLNfE
 TVBS新聞,https://www.youtube.com/watch?v=2mCSYvcfhtc
@@ -16,6 +15,7 @@ TVBS56,https://www.youtube.com/watch?v=YvdcZ_jpLXE
 鏡新闻,https://www.youtube.com/watch?v=5n0y6b0Q25o
 東森財經新聞,https://www.youtube.com/watch?v=WHEPzbFA3hw
 东森财经股市,https://www.youtube.com/watch?v=LbS-xQ67fos
+新唐人亞太,https://www.youtube.com/watch?v=WIhgU_mc05A
 
 🍅YouTube国际新闻,#genre#
 Sky News,https://www.youtube.com/watch?v=9Auq9mYxFEE
