@@ -22,6 +22,12 @@ TVBSHD56,https://www.youtube.com/watch?v=YvdcZ_jpLXE
 东森财经股市,https://www.youtube.com/watch?v=LbS-xQ67fos
 新唐人亞太,https://www.youtube.com/watch?v=WIhgU_mc05A
 
+🍅K-POP,#genre#
+THE K-POP,https://www.youtube.com/watch?v=JVocS7Yftw8
+K-POP Girl Group,https://www.youtube.com/watch?v=k2F1XZxPLOA
+KBS WORLD TV,https://www.youtube.com/watch?v=yC0OLhiEMLg
+KBS KOREA,https://www.youtube.com/watch?v=OxQQsIvJTTU
+
 🍅YouTube国际新闻,#genre#
 Sky News,https://www.youtube.com/watch?v=9Auq9mYxFEE
 abc News,https://www.youtube.com/watch?v=w_Ma8oQLmSM
