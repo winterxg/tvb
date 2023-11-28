@@ -28,7 +28,6 @@ TVBSHD56,https://www.youtube.com/watch?v=YvdcZ_jpLXE
 THE K-POP,https://www.youtube.com/watch?v=JVocS7Yftw8
 K-POP Girl Group,https://www.youtube.com/watch?v=k2F1XZxPLOA
 KBS WORLD TV,https://www.youtube.com/watch?v=yC0OLhiEMLg
-KBS KOREA,https://www.youtube.com/watch?v=OxQQsIvJTTU
 
 🍅YouTube国际新闻,#genre#
 Sky News,https://www.youtube.com/watch?v=9Auq9mYxFEE
@@ -57,8 +56,10 @@ NBC NEW,https://www.youtube.com/watch?v=0IUbD_4ytuo
 KOMPASTV,https://www.youtube.com/watch?v=4rmf-lk3ito
 
 🍅YouTube日韩,#genre#
-NHK WORLD,https://www.youtube.com/watch?v=f0lYkdA-Gtw
+Arirang TV,https://www.youtube.com/watch?v=CJVBX7KI5nU
+KBS KOREA,https://www.youtube.com/watch?v=OxQQsIvJTTU
 KBC NEWS,https://www.youtube.com/watch?v=EdHeJBkwGno
+NHK WORLD-JAPAN,https://www.youtube.com/watch?v=f0lYkdA-Gtw
 JapaNews24,https://www.youtube.com/watch?v=coYw-eVU0Ks
 ANNnewsCH,https://www.youtube.com/watch?v=mB-prl5HTV8
 TBS NEWS DIG,https://www.youtube.com/watch?v=nwVfs8pDPI4
@@ -67,7 +68,7 @@ TBS NEWS DIG,https://www.youtube.com/watch?v=nwVfs8pDPI4
 北海道新闻,https://www.youtube.com/watch?v=xWPD8KDHUH8
 北海道weekend,https://www.youtube.com/watch?v=L0_P_KJVpKc
 KansaiNews24,https://www.youtube.com/watch?v=EqdxY34Y6LA
-MBCNEWS,https://www.youtube.com/watch?v=q-Wv4Pvt-5A
+MBC NEWS,https://www.youtube.com/watch?v=q-Wv4Pvt-5A
 KBS,https://www.youtube.com/watch?v=HnfpTMtfFk8
-YonhapnewsTV,https://www.youtube.com/watch?v=0GN8t2u3flc
+YonhapnewsTV,https://www.youtube.com/watch?v=6QZ_qc75ihU
 YTN,https://www.youtube.com/watch?v=vEO6wO0QsX8
