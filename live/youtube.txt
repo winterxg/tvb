@@ -5,10 +5,11 @@
 中天新闻,https://www.youtube.com/watch?v=oIgbl7t0S_w
 中天新闻2台,https://www.youtube.com/watch?v=WPfPjbOLNfE
 TVBS新聞,https://www.youtube.com/watch?v=2mCSYvcfhtc
-TVBS NEWS LIVE,https://www.youtube.com/watch?v=m_dhMSvUCIc
+TVBS NEWS,https://www.youtube.com/watch?v=m_dhMSvUCIc
 TVBSHD56,https://www.youtube.com/watch?v=YvdcZ_jpLXE
 東森新闻Live,https://www.youtube.com/watch?v=S5WOGu2HSes
 東森Live51,https://www.youtube.com/watch?v=E0zhe2gkXBs
+東森國際新聞,https://www.youtube.com/watch?v=6gXbFIaRJt0
 三立Live,https://www.youtube.com/watch?v=FoBfXvlOR6I
 三立inews,https://www.youtube.com/watch?v=CKjSm5ZeehE
 三立NEWS+,https://www.youtube.com/watch?v=oZdzzvxTfUY
