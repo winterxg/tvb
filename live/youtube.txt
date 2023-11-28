@@ -1,13 +1,14 @@
 🍅YouTube新闻,#genre#
-凤凰卫视资讯台,https://www.youtube.com/watch?v=sUISafvOieY
-鳳凰衛視,https://www.youtube.com/watch?v=if6yQq_JJyY
-公視新聞網,https://www.youtube.com/watch?v=quwqlazU-c8
+鳳凰衛視資訊台,https://www.youtube.com/watch?v=Zm4i_rvAcxc
+凤凰卫视资讯台,https://www.youtube.com/watch?v=R7eIQ0vSyWw
+公視新聞,https://www.youtube.com/watch?v=quwqlazU-c8
 中天新闻,https://www.youtube.com/watch?v=oIgbl7t0S_w
 中天新闻2台,https://www.youtube.com/watch?v=WPfPjbOLNfE
 TVBS新聞,https://www.youtube.com/watch?v=2mCSYvcfhtc
 TVBS NEWS LIVE,https://www.youtube.com/watch?v=m_dhMSvUCIc
-TVBS56選新聞,https://www.youtube.com/watch?v=YvdcZ_jpLXE
-東森Live,https://www.youtube.com/watch?v=R2iMq5LKXco
+TVBSHD56,https://www.youtube.com/watch?v=YvdcZ_jpLXE
+東森新闻Live,https://www.youtube.com/watch?v=S5WOGu2HSes
+東森Live51,https://www.youtube.com/watch?v=E0zhe2gkXBs
 三立Live,https://www.youtube.com/watch?v=FoBfXvlOR6I
 三立inews,https://www.youtube.com/watch?v=CKjSm5ZeehE
 三立NEWS+,https://www.youtube.com/watch?v=oZdzzvxTfUY
