@@ -57,8 +57,9 @@ KOMPASTV,https://www.youtube.com/watch?v=4rmf-lk3ito
 
 🍅YouTube日韩,#genre#
 Arirang TV,https://www.youtube.com/watch?v=CJVBX7KI5nU
+MBC NEWS,https://www.youtube.com/watch?v=q-Wv4Pvt-5A
+KBS NEWS,https://www.youtube.com/watch?v=D2R15WicmAs
 KBS KOREA,https://www.youtube.com/watch?v=OxQQsIvJTTU
-KBC NEWS,https://www.youtube.com/watch?v=EdHeJBkwGno
 NHK WORLD-JAPAN,https://www.youtube.com/watch?v=f0lYkdA-Gtw
 JapaNews24,https://www.youtube.com/watch?v=coYw-eVU0Ks
 ANNnewsCH,https://www.youtube.com/watch?v=mB-prl5HTV8
@@ -68,7 +69,6 @@ TBS NEWS DIG,https://www.youtube.com/watch?v=nwVfs8pDPI4
 北海道新闻,https://www.youtube.com/watch?v=xWPD8KDHUH8
 北海道weekend,https://www.youtube.com/watch?v=L0_P_KJVpKc
 KansaiNews24,https://www.youtube.com/watch?v=EqdxY34Y6LA
-MBC NEWS,https://www.youtube.com/watch?v=q-Wv4Pvt-5A
-KBS,https://www.youtube.com/watch?v=HnfpTMtfFk8
+매일경제TV,https://www.youtube.com/watch?v=s9xL1DpBsfQ
 YonhapnewsTV,https://www.youtube.com/watch?v=6QZ_qc75ihU
 YTN,https://www.youtube.com/watch?v=vEO6wO0QsX8
