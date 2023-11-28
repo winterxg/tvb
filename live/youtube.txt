@@ -17,6 +17,7 @@ TVBSHD56,https://www.youtube.com/watch?v=YvdcZ_jpLXE
 三立NEWS+,https://www.youtube.com/watch?v=oZdzzvxTfUY
 民视新闻台,https://www.youtube.com/watch?v=ylYJSBUgaMA
 華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
+華視新聞,https://fake-stream.livednow.com/4gtv/4gtv-4gtv052?token=3f9f0dceeca5128fa572256ca3688c61
 寰宇新闻,https://www.youtube.com/watch?v=6IquAgfvYmc
 寰宇新闻台灣台,https://www.youtube.com/watch?v=w87VGpgd90U
 台视新闻台,https://www.youtube.com/watch?v=xL0ch83RAK8
