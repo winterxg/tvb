@@ -1,7 +1,7 @@
 🍅YouTube新闻,#genre#
 鳳凰衛視資訊台,https://www.youtube.com/watch?v=Zm4i_rvAcxc
 凤凰卫视资讯台,https://www.youtube.com/watch?v=R7eIQ0vSyWw
-公視新聞,https://www.youtube.com/watch?v=quwqlazU-c8
+公視新聞網,https://www.youtube.com/watch?v=quwqlazU-c8
 中天新闻,https://www.youtube.com/watch?v=oIgbl7t0S_w
 中天新闻2台,https://www.youtube.com/watch?v=WPfPjbOLNfE
 TVBS新聞,https://www.youtube.com/watch?v=2mCSYvcfhtc
@@ -14,12 +14,14 @@ TVBSHD56,https://www.youtube.com/watch?v=YvdcZ_jpLXE
 三立NEWS+,https://www.youtube.com/watch?v=oZdzzvxTfUY
 民视新闻台,https://www.youtube.com/watch?v=ylYJSBUgaMA
 華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
-寰宇新闻,https://www.youtube.com/watch?v=B7Zp3d6xXWw
+寰宇新闻,https://www.youtube.com/watch?v=6IquAgfvYmc
+寰宇新闻台灣台,https://www.youtube.com/watch?v=w87VGpgd90U
 台视新闻台,https://www.youtube.com/watch?v=xL0ch83RAK8
 中视新闻,https://www.youtube.com/watch?v=TCnaIE_SAtM
 鏡新闻,https://www.youtube.com/watch?v=5n0y6b0Q25o
 東森財經新聞,https://www.youtube.com/watch?v=WHEPzbFA3hw
 东森财经股市,https://www.youtube.com/watch?v=LbS-xQ67fos
+寰宇財經台,https://www.youtube.com/watch?v=25SE1bbTv9k
 新唐人亞太,https://www.youtube.com/watch?v=WIhgU_mc05A
 
 🍅K-POP,#genre#
