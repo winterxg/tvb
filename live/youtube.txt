@@ -1,8 +1,8 @@
 🍅YouTube新闻,#genre#
-#凤凰卫视咨询台,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/2300.m3u8
+#凤凰卫视咨询台,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/2300.m3u8#
 凤凰卫视中文台,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52003/2300.m3u8
 鳳凰衛視資訊台,https://www.youtube.com/watch?v=Zm4i_rvAcxc
-#凤凰卫视资讯台,https://www.youtube.com/watch?v=R7eIQ0vSyWw
+#凤凰卫视资讯台,https://www.youtube.com/watch?v=R7eIQ0vSyWw#
 公視新聞網,https://www.youtube.com/watch?v=quwqlazU-c8
 中天新闻,https://www.youtube.com/watch?v=oIgbl7t0S_w
 中天新闻2台,https://www.youtube.com/watch?v=WPfPjbOLNfE
@@ -28,11 +28,11 @@ TVBSHD 56,https://www.youtube.com/watch?v=YvdcZ_jpLXE
 東森財經新聞,https://www.youtube.com/watch?v=WHEPzbFA3hw
 东森财经股市,https://www.youtube.com/watch?v=LbS-xQ67fos
 寰宇財經台,https://www.youtube.com/watch?v=25SE1bbTv9k
-TaiwanPlus,https://www.youtube.com/watch?v=dZp87qnWelE
 新唐人亞太,https://www.youtube.com/watch?v=WIhgU_mc05A
 VOA美國之音,https://fake-stream.livednow.com/4gtv/litv-ftv03?token=4338e29534b95659f94b7a6817dab525
 中視經典綜藝,https://www.youtube.com/watch?v=ADDSmXoPDY8
 豬哥會社,https://www.youtube.com/watch?v=htGDPsz2BYI
+TaiwanPlus,https://www.youtube.com/watch?v=dZp87qnWelE
 
 🍅K-POP,#genre#
 THE K-POP,https://www.youtube.com/watch?v=JVocS7Yftw8
