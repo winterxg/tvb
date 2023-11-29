@@ -4,6 +4,7 @@
 公視新聞網,https://www.youtube.com/watch?v=quwqlazU-c8
 中天新闻,https://www.youtube.com/watch?v=oIgbl7t0S_w
 中天新闻2台,https://www.youtube.com/watch?v=WPfPjbOLNfE
+中天亞洲台,https://www.youtube.com/watch?v=PYtGQvNmadg
 TVBS新聞,https://www.youtube.com/watch?v=2mCSYvcfhtc
 TVBS NEWS,https://www.youtube.com/watch?v=m_dhMSvUCIc
 TVBSHD 56,https://www.youtube.com/watch?v=YvdcZ_jpLXE
@@ -24,7 +25,10 @@ TVBSHD 56,https://www.youtube.com/watch?v=YvdcZ_jpLXE
 東森財經新聞,https://www.youtube.com/watch?v=WHEPzbFA3hw
 东森财经股市,https://www.youtube.com/watch?v=LbS-xQ67fos
 寰宇財經台,https://www.youtube.com/watch?v=25SE1bbTv9k
+TaiwanPlus,https://www.youtube.com/watch?v=dZp87qnWelE
 新唐人亞太,https://www.youtube.com/watch?v=WIhgU_mc05A
+中視經典綜藝,https://www.youtube.com/watch?v=ADDSmXoPDY8
+豬哥會社,https://www.youtube.com/watch?v=htGDPsz2BYI
 
 🍅K-POP,#genre#
 THE K-POP,https://www.youtube.com/watch?v=JVocS7Yftw8
