@@ -20,7 +20,8 @@ TVBSHD 56,https://www.youtube.com/watch?v=YvdcZ_jpLXE
 華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
 華視新聞,https://fake-stream.livednow.com/4gtv/4gtv-4gtv052?token=3f9f0dceeca5128fa572256ca3688c61
 寰宇新闻,https://www.youtube.com/watch?v=6IquAgfvYmc
-寰宇新闻台灣台,https://www.youtube.com/watch?v=w87VGpgd90U
+寰宇台灣台,https://www.youtube.com/watch?v=w87VGpgd90U
+寰宇新聞台灣台,https://fake-stream.livednow.com/4gtv/280?token=d0c34076355b09256a62777348f9af4a
 台视新闻台,https://www.youtube.com/watch?v=xL0ch83RAK8
 中视新闻,https://www.youtube.com/watch?v=TCnaIE_SAtM
 鏡新闻,https://www.youtube.com/watch?v=5n0y6b0Q25o
@@ -29,6 +30,7 @@ TVBSHD 56,https://www.youtube.com/watch?v=YvdcZ_jpLXE
 寰宇財經台,https://www.youtube.com/watch?v=25SE1bbTv9k
 TaiwanPlus,https://www.youtube.com/watch?v=dZp87qnWelE
 新唐人亞太,https://www.youtube.com/watch?v=WIhgU_mc05A
+VOA美國之音,https://fake-stream.livednow.com/4gtv/litv-ftv03?token=4338e29534b95659f94b7a6817dab525
 中視經典綜藝,https://www.youtube.com/watch?v=ADDSmXoPDY8
 豬哥會社,https://www.youtube.com/watch?v=htGDPsz2BYI
 
