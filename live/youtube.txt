@@ -1,8 +1,8 @@
 🍅YouTube新闻,#genre#
-#凤凰卫视咨询台,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/2300.m3u8#
+# 凤凰卫视咨询台,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/2300.m3u8 #
 凤凰卫视中文台,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52003/2300.m3u8
 鳳凰衛視資訊台,https://www.youtube.com/watch?v=Zm4i_rvAcxc
-#凤凰卫视资讯台,https://www.youtube.com/watch?v=R7eIQ0vSyWw#
+# 凤凰卫视资讯台,https://www.youtube.com/watch?v=R7eIQ0vSyWw #
 公視新聞網,https://www.youtube.com/watch?v=quwqlazU-c8
 中天新闻,https://www.youtube.com/watch?v=oIgbl7t0S_w
 中天新闻2台,https://www.youtube.com/watch?v=WPfPjbOLNfE
