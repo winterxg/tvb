@@ -1,15 +1,13 @@
 🍅YouTube新闻,#genre#
-鳳凰衛視資訊台,https://www.youtube.com/watch?v=Zm4i_rvAcxc
-凤凰卫视中文台,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52003/2300.m3u8
 凤凰卫视咨询台,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/2300.m3u8
-凤凰卫视资讯台,https://www.youtube.com/watch?v=R7eIQ0vSyWw
-公視新聞網,https://www.youtube.com/watch?v=quwqlazU-c8
+凤凰卫视中文台,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52003/2300.m3u8
+鳳凰衛視資訊台,https://www.youtube.com/watch?v=Zm4i_rvAcxc
 中天新闻,https://www.youtube.com/watch?v=oIgbl7t0S_w
 中天新闻2台,https://www.youtube.com/watch?v=WPfPjbOLNfE
 中天亞洲台,https://www.youtube.com/watch?v=s2waUruqze4
 TVBS新聞,https://www.youtube.com/watch?v=2mCSYvcfhtc
-TVBS NEWS,https://www.youtube.com/watch?v=m_dhMSvUCIc
 TVBSHD 56,https://www.youtube.com/watch?v=YvdcZ_jpLXE
+TVBS NEWS,https://www.youtube.com/watch?v=m_dhMSvUCIc
 東森新闻Live,https://www.youtube.com/watch?v=S5WOGu2HSes
 東森Live51,https://www.youtube.com/watch?v=E0zhe2gkXBs
 東森國際新聞,https://www.youtube.com/watch?v=6gXbFIaRJt0
@@ -17,6 +15,7 @@ TVBSHD 56,https://www.youtube.com/watch?v=YvdcZ_jpLXE
 三立inews,https://www.youtube.com/watch?v=CKjSm5ZeehE
 三立NEWS+,https://www.youtube.com/watch?v=oZdzzvxTfUY
 民视新闻台,https://www.youtube.com/watch?v=ylYJSBUgaMA
+公視新聞網,https://www.youtube.com/watch?v=quwqlazU-c8
 華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
 華視新聞,https://fake-stream.livednow.com/4gtv/4gtv-4gtv052?token=3f9f0dceeca5128fa572256ca3688c61
 寰宇新闻,https://www.youtube.com/watch?v=6IquAgfvYmc
