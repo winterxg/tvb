@@ -2,12 +2,12 @@
 parse=1
 湖南电影,https://live.mgtv.com/?channelId=221
 parse=1
+民視第一台,https://www.4gtv.tv/channel/4gtv-4gtv003?set=4&ch=1
+parse=1
 凤凰卫视资讯台,https://www.histar.tv/live/phtv-info
 parse=1
 凤凰卫视中文台,https://www.histar.tv/live/phtv-cn
 鳳凰衛視資訊台,https://www.youtube.com/watch?v=Zm4i_rvAcxc
-parse=1
-民視第一台,https://www.4gtv.tv/channel/4gtv-4gtv003?set=4&ch=1
 中天新闻,https://www.youtube.com/watch?v=oIgbl7t0S_w
 中天新闻2台,https://www.youtube.com/watch?v=WPfPjbOLNfE
 中天亞洲台,https://www.youtube.com/watch?v=s2waUruqze4
