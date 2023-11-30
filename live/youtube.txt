@@ -1,4 +1,6 @@
 🍅YouTube新闻,#genre#
+parse=1
+湖南电影,https://live.mgtv.com/?channelId=221
 凤凰卫视咨询台,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/2300.m3u8
 凤凰卫视中文台,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52003/2300.m3u8
 parse=1
