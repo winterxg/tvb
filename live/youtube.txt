@@ -1,5 +1,9 @@
 🍅YouTube新闻,#genre#
 parse=1
+now新闻台,https://hkdtmb.com/332
+parse=1
+翡翠台,https://hkdtmb.com/81
+parse=1
 湖南电影,https://live.mgtv.com/?channelId=221
 parse=1
 民視第一台,https://www.4gtv.tv/channel/4gtv-4gtv003?set=4&ch=1
