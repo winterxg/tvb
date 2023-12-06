@@ -1,15 +1,12 @@
 🍅YouTube新闻,#genre#
 parse=1
+Pluto Spotlight,https://pluto.tv/en/live-tv/5ba3fb9c4b078e0f37ad34e8
+Pluto Icons,https://pluto.tv/en/live-tv/64b585f84ea480000838e446
 now新闻台,https://hkdtmb.com/332
-parse=1
 翡翠台,https://hkdtmb.com/81
-parse=1
 湖南电影,https://live.mgtv.com/?channelId=221
-parse=1
 民視第一台,https://www.4gtv.tv/channel/4gtv-4gtv003?set=4&ch=1
-parse=1
 凤凰卫视资讯台,https://www.histar.tv/live/phtv-info
-parse=1
 凤凰卫视中文台,https://www.histar.tv/live/phtv-cn
 鳳凰衛視資訊台,https://www.youtube.com/watch?v=Zm4i_rvAcxc
 中天新闻,https://www.youtube.com/watch?v=oIgbl7t0S_w
@@ -18,7 +15,7 @@ parse=1
 TVBS新聞,https://www.youtube.com/watch?v=2mCSYvcfhtc
 TVBSHD 56,https://www.youtube.com/watch?v=YvdcZ_jpLXE
 TVBS NEWS,https://www.youtube.com/watch?v=m_dhMSvUCIc
-東森新闻Live,https://www.youtube.com/watch?v=S5WOGu2HSes
+東森新闻,https://www.youtube.com/watch?v=S5WOGu2HSes
 東森Live51,https://www.youtube.com/watch?v=E0zhe2gkXBs
 東森國際新聞,https://www.youtube.com/watch?v=6gXbFIaRJt0
 三立Live,https://www.youtube.com/watch?v=FoBfXvlOR6I
