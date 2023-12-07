@@ -28,5 +28,6 @@ Cult Films,https://pluto.tv/en/live-tv/5c665db3e6c01b72c4977bc2
 Flicks of Fury,https://pluto.tv/en/live-tv/58e55b14ad8e9c364d55f717
 Hallmark Movies&More,https://pluto.tv/en/live-tv/63335d36a1cd8c000765466c
 News + Opinion,#genre#
+parse=1
 Pluto News,https://pluto.tv/en/live-tv/5268abcd0ce20a8472000114
 CBS News,https://pluto.tv/en/live-tv/5a6b92f6e22a617379789618
