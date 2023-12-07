@@ -12,7 +12,7 @@ now新闻台,https://hkdtmb.com/332
 中天新闻,https://www.youtube.com/watch?v=oIgbl7t0S_w
 中天新闻2台,https://www.youtube.com/watch?v=WPfPjbOLNfE
 中天亞洲台,https://www.youtube.com/watch?v=s2waUruqze4
-TVBS新聞,https://www.youtube.com/watch?v=2mCSYvcfhtc
+TVBS新聞台,https://www.youtube.com/watch?v=2mCSYvcfhtc
 TVBSHD 56,https://www.youtube.com/watch?v=YvdcZ_jpLXE
 TVBS NEWS,https://www.youtube.com/watch?v=m_dhMSvUCIc
 東森新闻,https://www.youtube.com/watch?v=S5WOGu2HSes
