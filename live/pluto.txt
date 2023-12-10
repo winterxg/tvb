@@ -1,5 +1,7 @@
 Movies,#genre#
 parse=1
+player=2
+referer=https://pluto.tv
 Line,https://today.line.me/tw/v2/article/jggMBa
 Pluto Spotlight,https://pluto.tv/en/live-tv/5ba3fb9c4b078e0f37ad34e8
 Pluto Icons,https://pluto.tv/en/live-tv/64b585f84ea480000838e446
