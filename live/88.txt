@@ -1,0 +1,88 @@
+﻿ANIMAX,http://gwtv.cnv8.tv:8097/Animax/playlist.m3u8
+AXN Taiwan,http://gwtv.cnv8.tv:8097/axn_twn/playlist.m3u8
+BBC Earth,http://gwtv.cnv8.tv:8097/bbcearth_twn/playlist.m3u8
+BBC World News,http://gwtv.cnv8.tv:8097/bbcnews_twn/playlist.m3u8
+CINEMAX,http://gwtv.cnv8.tv:8097/cinemax_twn/playlist.m3u8
+CN卡通,http://gwtv.cnv8.tv:8097/momo1_twn/playlist.m3u8
+Discovery Science,http://gwtv.cnv8.tv:8097/discoverysc_twn/playlist.m3u8
+Discovery Asia,http://gwtv.cnv8.tv:8097/discoverytwn_twn/playlist.m3u8
+Discovery,http://gwtv.cnv8.tv:8097/discoveryhd_twn/playlist.m3u8
+Discovery Turbo,http://gwtv.cnv8.tv:8097/discoveryturbo_twn/playlist.m3u8
+EYETV戲劇,http://gwtv.cnv8.tv:8097/eyetvxiju_twn/playlist.m3u8
+EYETV旅遊,http://gwtv.cnv8.tv:8097/eyetvtravel_twn/playlist.m3u8
+ELEVEN SPORTS 1,http://gwtv.cnv8.tv:8097/golfchannel_twn/playlist.m3u8
+HBO,http://gwtv.cnv8.tv:8097/hbohd_twn/playlist.m3u8
+JET綜合,http://gwtv.cnv8.tv:8097/jettv_japan/playlist.m3u8
+MTV,http://gwtv.cnv8.tv:8097/mtvhd_twn/playlist.m3u8
+TLC旅遊生活,http://gwtv.cnv8.tv:8097/tlc_twn/playlist.m3u8
+TVBS HD,http://gwtv.cnv8.tv:8097/tvbs/playlist.m3u8
+TVBS News,http://gwtv.cnv8.tv:8097/tvbs_n/playlist.m3u8
+TVBS歡樂,http://gwtv.cnv8.tv:8097/tvbshuanle_twn/playlist.m3u8
+Warner TV,http://gwtv.cnv8.tv:8097/WarnerTV/playlist.m3u8
+八大戲劇,http://gwtv.cnv8.tv:8097/badadrama/playlist.m3u8
+八大第一,http://gwtv.cnv8.tv:8097/badafirst/playlist.m3u8
+八大綜合,http://gwtv.cnv8.tv:8097/badazhonghe/playlist.m3u8
+三立戲劇,http://gwtv.cnv8.tv:8097/sanlixiju_twn/playlist.m3u8
+三立綜合,http://gwtv.cnv8.tv:8097/sanlizhonghe/playlist.m3u8
+三立台灣,http://gwtv.cnv8.tv:8097/sanlitaiwan/playlist.m3u8
+三立都會,http://gwtv.cnv8.tv:8097/sanlidouhui_twn/playlist.m3u8
+大愛1,http://gwtv.cnv8.tv:8097/daai_twn/playlist.m3u8
+中天娛樂,http://gwtv.cnv8.tv:8097/ctient/playlist.m3u8
+中天綜合,http://gwtv.cnv8.tv:8097/ctizhonghe/playlist.m3u8
+中天新聞,http://gwtv.cnv8.tv:8097/ctinews/playlist.m3u8
+中視,http://gwtv.cnv8.tv:8097/zhongshihd_twn/playlist.m3u8
+中視新聞,http://gwtv.cnv8.tv:8097/zhongshinews_twn/playlist.m3u8
+中視經典,http://gwtv.cnv8.tv:8097/zhongshi_twn/playlist.m3u8
+公視,http://gwtv.cnv8.tv:8097/ctv_taiwan/playlist.m3u8
+東森電影,http://gwtv.cnv8.tv:8097/ettvmovie/playlist.m3u8
+東森戲劇,http://gwtv.cnv8.tv:8097/ettvdrama/playlist.m3u8
+東森財經新聞,http://gwtv.cnv8.tv:8097/ettvcaijing_twn/playlist.m3u8
+東森洋片,http://gwtv.cnv8.tv:8097/ettvwestern/playlist.m3u8
+東森綜合,http://gwtv.cnv8.tv:8097/ettvzhonghe/playlist.m3u8
+東森超視,http://gwtv.cnv8.tv:8097/ettvsuper/playlist.m3u8
+東森新聞,http://gwtv.cnv8.tv:8097/ettvnews/playlist.m3u8
+東風衛視,http://gwtv.cnv8.tv:8097/aziotv_twn/playlist.m3u8
+高點綜合,http://gwtv.cnv8.tv:8097/toptv_twn/playlist.m3u8
+台視,http://gwtv.cnv8.tv:8097/ttv_taiwan/playlist.m3u8
+台視新聞,http://gwtv.cnv8.tv:8097/ttvnews_twn/playlist.m3u8
+民視,http://gwtv.cnv8.tv:8097/ftvhd_taiwan/playlist.m3u8
+民視第一,http://gwtv.cnv8.tv:8097/lunghuajingdian_twn/playlist.m3u8
+民視台灣,http://gwtv.cnv8.tv:8097/ftvtaiwan_twn/playlist.m3u8
+民視新聞,http://gwtv.cnv8.tv:8097/ftvnew_taiwan/playlist.m3u8
+龍華卡通,http://gwtv.cnv8.tv:8097/jingtiancartoon_twn/playlist.m3u8
+龍華戲劇,http://gwtv.cnv8.tv:8097/lunghuaxiju_twn/playlist.m3u8
+龍華經典,http://gwtv.cnv8.tv:8097/lunghuajingdian_twn/playlist.m3u8
+龍華偶像,http://gwtv.cnv8.tv:8097/lunghuaidol_twn/playlist.m3u8
+龍華洋片,http://gwtv.cnv8.tv:8097/lunghuawestern_twn/playlist.m3u8
+龍祥時代,http://gwtv.cnv8.tv:8097/lungxiangtime_twn/playlist.m3u8
+動物星球,http://gwtv.cnv8.tv:8097/animalplanet_twn/playlist.m3u8
+華視,http://gwtv.cnv8.tv:8097/ctshd_twn/playlist.m3u8
+好萊塢電影,http://gwtv.cnv8.tv:8097/hollywoodmovies_twn/playlist.m3u8
+年代新聞,http://gwtv.cnv8.tv:8097/niandainews_twn/playlist.m3u8
+緯來戲劇,http://gwtv.cnv8.tv:8097/videolandtv/playlist.m3u8
+緯來電影,http://gwtv.cnv8.tv:8097/videolandmovie/playlist.m3u8
+緯來育樂,http://gwtv.cnv8.tv:8097/videolandmax/playlist.m3u8
+緯來體育,http://gwtv.cnv8.tv:8097/videolandsport/playlist.m3u8
+緯來日本,http://gwtv.cnv8.tv:8097/videolandjapan/playlist.m3u8
+國家地理,http://gwtv.cnv8.tv:8097/natgeohd_twn/playlist.m3u8
+非凡新聞,http://gwtv.cnv8.tv:8097/feifannews_twn/playlist.m3u8
+衛視中文,http://gwtv.cnv8.tv:8097/weishichinese_twn/playlist.m3u8
+星衛電影,http://gwtv.cnv8.tv:8097/xingwei_movie/playlist.m3u8
+StarMoviesGold,http://gwtv.cnv8.tv:8097/starmoviesgold_twn/playlist.m3u8
+StarWorld,http://gwtv.cnv8.tv:8097/starworld_twn/playlist.m3u8
+美亞電影,http://gwtv.cnv8.tv:8097/meiyamovie_twn/playlist.m3u8
+愛爾達體育1,http://gwtv.cnv8.tv:8097/eltasport_twn/playlist.m3u8
+愛爾達體育2,http://gwtv.cnv8.tv:8097/eltasport2_twn/playlist.m3u8
+愛爾達體育3,http://gwtv.cnv8.tv:8097/eltasport3_twn/playlist.m3u8
+愛爾達體育4,http://gwtv.cnv8.tv:8097/natgeowild_twn/playlist.m3u8
+愛爾達影劇,http://gwtv.cnv8.tv:8097/eltayingju_twn/playlist.m3u8
+愛爾達綜合,http://gwtv.cnv8.tv:8097/eltazonghe/playlist.m3u8
+博斯網球,http://gwtv.cnv8.tv:8097/bositennis_twn/playlist.m3u8
+博斯運動1,http://gwtv.cnv8.tv:8097/bosisport1_twn/playlist.m3u8
+博斯運動2,http://gwtv.cnv8.tv:8097/bosisport2_twn/playlist.m3u8
+博斯高球1,http://gwtv.cnv8.tv:8097/bosigolf1_twn/playlist.m3u8
+博斯高球2,http://gwtv.cnv8.tv:8097/bosigolf2_twn/playlist.m3u8
+靖天卡通,http://gwtv.cnv8.tv:8097/jingtiancartoon_twn/playlist.m3u8
+靖天國際,http://gwtv.cnv8.tv:8097/jingtianintl_twn/playlist.m3u8
+亞洲旅遊,http://gwtv.cnv8.tv:8097/asiatravel_twn/playlist.m3u8
+寰宇新聞,http://gwtv.cnv8.tv:8097/huanyuxinwen_twn/playlist.m3u8
