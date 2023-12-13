@@ -1,12 +1,11 @@
 Movies,#genre#
 parse=1
-player=2
-referer=https://pluto.tv
-Line,https://today.line.me/tw/v2/article/jggMBa
+referer=https://pluto.tv/
 Pluto Spotlight,https://pluto.tv/en/live-tv/5ba3fb9c4b078e0f37ad34e8
 Pluto Icons,https://pluto.tv/en/live-tv/64b585f84ea480000838e446
 Action,https://pluto.tv/en/live-tv/561d7d484dc7c8770484914a
 Reaction,https://pluto.tv/en/live-tv/617b37b361e0fd0008cfd8c5
+Line,https://today.line.me/tw/v2/article/jggMBa
 Comedy,https://pluto.tv/en/live-tv/5a4d3a00ad95e4718ae8d8db
 Drama,https://pluto.tv/en/live-tv/5b4e92e4694c027be6ecece1
 Pluto Fantastic,https://pluto.tv/en/live-tv/5b64a245a202b3337f09e51d
