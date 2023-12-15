@@ -1,5 +1,6 @@
 ﻿Movies,#genre#
 parse=1
+referer=https://pluto.tv/
 Pluto Spotlight,video://https://pluto.tv/en/live-tv/5ba3fb9c4b078e0f37ad34e8
 Pluto Icons,video://https://pluto.tv/en/live-tv/64b585f84ea480000838e446
 Action,video://https://pluto.tv/en/live-tv/561d7d484dc7c8770484914a
