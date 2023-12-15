@@ -1,5 +1,4 @@
 ﻿台湾,#genre#
-parse=1
 民视新闻,video://https://www.4gtv.tv/channel/litv-ftv13?set=1&ch=31
 民视,video://https://www.4gtv.tv/channel/4gtv-4gtv002?set=1&ch=3
 民视第一台,video://https://www.4gtv.tv/channel/4gtv-4gtv003?set=1&ch=1
