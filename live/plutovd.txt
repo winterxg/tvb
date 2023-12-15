@@ -1,0 +1,31 @@
+﻿Movies,#genre#
+parse=1
+Pluto Spotlight,video://https://pluto.tv/en/live-tv/5ba3fb9c4b078e0f37ad34e8
+Pluto Icons,video://https://pluto.tv/en/live-tv/64b585f84ea480000838e446
+Action,video://https://pluto.tv/en/live-tv/561d7d484dc7c8770484914a
+Reaction,video://https://pluto.tv/en/live-tv/617b37b361e0fd0008cfd8c5
+Comedy,video://https://pluto.tv/en/live-tv/5a4d3a00ad95e4718ae8d8db
+Drama,video://https://pluto.tv/en/live-tv/5b4e92e4694c027be6ecece1
+Pluto Fantastic,video://https://pluto.tv/en/live-tv/5b64a245a202b3337f09e51d
+Romance,video://https://pluto.tv/en/live-tv/5a66795ef91fef2c7031c599
+Pluto Crime Movies,video://https://pluto.tv/en/live-tv/5f4d8594eb979c0007706de7
+Thrillers,video://https://pluto.tv/en/live-tv/5b4e69e08291147bd04a9fd7
+Horror,video://https://pluto.tv/en/live-tv/569546031a619b8f07ce6e25
+Terror,video://https://pluto.tv/en/live-tv/5c6dc88fcd232425a6e0f06e
+Black Cinema,video://https://pluto.tv/en/live-tv/58af4c093a41ca9d4ecabe96
+Movie Sphere,video://https://pluto.tv/en/live-tv/645e7828e1979c00087b75b4
+Pluto Staff Picks,video://https://pluto.tv/en/live-tv/5f4d863b98b41000076cd061
+Documentarise,video://https://pluto.tv/en/live-tv/5b85a7582921777994caea63
+OOs Replay,video://https://pluto.tv/en/live-tv/62ba60f059624e000781c436
+9Os Throwback,video://https://pluto.tv/en/live-tv/5f4d86f519358a00072b978e
+8Os Rewind,video://https://pluto.tv/en/live-tv/5ca525b650be2571e3943c63
+7Os Cinema,video://https://pluto.tv/en/live-tv/5f4d878d3d19b30007d2e782
+Movie Channel,video://https://pluto.tv/en/live-tv/5cb0cae7a461406ffe3f5213
+Westerns,video://https://pluto.tv/en/live-tv/5b4e94282d4ec87bdcbb87cd
+Classic Movies,video://https://pluto.tv/en/live-tv/561c5b0dada51f8004c4d855
+Cult Films,video://https://pluto.tv/en/live-tv/5c665db3e6c01b72c4977bc2
+Flicks of Fury,video://https://pluto.tv/en/live-tv/58e55b14ad8e9c364d55f717
+Hallmark Movies&More,video://https://pluto.tv/en/live-tv/63335d36a1cd8c000765466c
+News + Opinion,#genre#
+Pluto News,video://https://pluto.tv/en/live-tv/5268abcd0ce20a8472000114
+CBS News,video://https://pluto.tv/en/live-tv/5a6b92f6e22a617379789618
