@@ -1,0 +1,115 @@
+﻿Live TV,#genre#
+parse=1
+
+A&E,video://https://thetvapp.to/tv/ae-live-stream/  
+AMC,video://https://thetvapp.to/tv/amc-live-stream/  
+American Heroes Channel,video://https://thetvapp.to/tv/american-heroes-channel-live-stream/  
+Animal Planet,video://https://thetvapp.to/tv/animal-planet-live-stream/  
+BBC America,video://https://thetvapp.to/tv/bbc-america-live-stream/  
+BBC World News HD,video://https://thetvapp.to/tv/bbc-world-news-hd-live-stream/  
+BET,video://https://thetvapp.to/tv/bet-live-stream/  
+BET Her,video://https://thetvapp.to/tv/bet-her-live-stream/  
+Bloomberg TV,video://https://thetvapp.to/tv/bloomberg-tv-live-stream/  
+Boomerang,video://https://thetvapp.to/tv/boomerang-live-stream/  
+Bravo,video://https://thetvapp.to/tv/bravo-live-stream/  
+Cartoon Network,video://https://thetvapp.to/tv/cartoon-network-live-stream/ 
+CBS Sports Network,video://https://thetvapp.to/tv/cbs-sports-network-live-stream/  
+Cinemax,video://https://thetvapp.to/tv/cinemax-live-stream/  
+CMT,video://https://thetvapp.to/tv/cmt-live-stream/  
+CNBC,video://https://thetvapp.to/tv/cnbc-live-stream/  
+CNN,video://https://thetvapp.to/tv/cnn-live-stream/  
+Comedy Central,video://https://thetvapp.to/tv/comedy-central-live-stream/  
+Cooking Channel,video://https://thetvapp.to/tv/cooking-channel-live-stream/  
+Crime&Investigation HD,video://https://thetvapp.to/tv/crime-investigation-hd-live-stream/  
+CSPAN,video://https://thetvapp.to/tv/cspan-live-stream/  
+CSPAN 2,video://https://thetvapp.to/tv/cspan-2-live-stream/  
+Destination America,video://https://thetvapp.to/tv/destination-america-live-stream/  
+Discovery,video://https://thetvapp.to/tv/discovery-live-stream/  
+Discovery Family Channel,video://https://thetvapp.to/tv/discovery-family-channel-live-stream/  
+Discovery Life,video://https://thetvapp.to/tv/discovery-life-live-stream/  
+Disney Channel (East),video://https://thetvapp.to/tv/disney-channel-east-live-stream/  
+Disney Junior,video://https://thetvapp.to/tv/disney-junior-live-stream/  
+Disney XD,video://https://thetvapp.to/tv/disney-xd-live-stream/  
+E!,video://https://thetvapp.to/tv/e-live-stream/  
+ESPN,video://https://thetvapp.to/tv/espn-live-stream/  
+ESPN2,video://https://thetvapp.to/tv/espn2-live-stream/  
+ESPNews,video://https://thetvapp.to/tv/espnews-live-stream/  
+ESPNU,video://https://thetvapp.to/tv/espnu-live-stream/  
+Food Network,video://https://thetvapp.to/tv/food-network-live-stream/  
+Fox Business Network,video://https://thetvapp.to/tv/fox-business-network-live-stream/  
+FOX News Channel,video://https://thetvapp.to/tv/fox-news-channel-live-stream/  
+FOX Sports 1,video://https://thetvapp.to/tv/fox-sports-1-live-stream/  
+FOX Sports 2,video://https://thetvapp.to/tv/fox-sports-2-live-stream/  
+Freeform,video://https://thetvapp.to/tv/freeform-live-stream/  
+Fuse HD,video://https://thetvapp.to/tv/fuse-hd-live-stream/  
+FX,video://https://thetvapp.to/tv/fx-live-stream/  
+FX Movie,video://https://thetvapp.to/tv/fx-movie-live-stream/  
+FXX,video://https://thetvapp.to/tv/fxx-live-stream/  
+FYI,video://https://thetvapp.to/tv/fyi-live-stream/  
+Golf Channel,video://https://thetvapp.to/tv/golf-channel-live-stream/  
+Hallmark,video://https://thetvapp.to/tv/hallmark-live-stream/  
+Hallmark Drama HD,video://https://thetvapp.to/tv/hallmark-drama-hd-live-stream/  
+Hallmark Movies&Mysteries HD,video://https://thetvapp.to/tv/hallmark-movies-mysteries-hd-live-stream/  
+HBO 2 East,video://https://thetvapp.to/tv/hbo-2-east-live-stream/  
+HBO Comedy HD,video://https://thetvapp.to/tv/hbo-comedy-hd-live-stream/  
+HBO East,video://https://thetvapp.to/tv/hbo-east-live-stream/  
+HBO Family East,video://https://thetvapp.to/tv/hbo-family-east-live-stream/  
+HBO Signature,video://https://thetvapp.to/tv/hbo-signature-live-stream/  
+HBO Zone HD,video://https://thetvapp.to/tv/hbo-zone-hd-live-stream/  
+HGTV,video://https://thetvapp.to/tv/hgtv-live-stream/  
+History,video://https://thetvapp.to/tv/history-live-stream/  
+HLN,video://https://thetvapp.to/tv/hln-live-stream/  
+IFC,video://https://thetvapp.to/tv/ifc-live-stream/  
+Investigation Discovery,video://https://thetvapp.to/tv/investigation-discovery-live-stream/  
+ION Television East HD,video://https://thetvapp.to/tv/ion-television-east-hd-live-stream/  
+Lifetime,video://https://thetvapp.to/tv/lifetime-live-stream/  
+LMN,video://https://thetvapp.to/tv/lmn-live-stream/  
+Logo,video://https://thetvapp.to/tv/logo-live-stream/  
+MLB Network,video://https://thetvapp.to/tv/mlb-network-live-stream/  
+MoreMAX,video://https://thetvapp.to/tv/moremax-live-stream/  
+MotorTrend HD,video://https://thetvapp.to/tv/motortrend-hd-live-stream/  
+MovieMAX,video://https://thetvapp.to/tv/moviemax-live-stream/  
+MSNBC,video://https://thetvapp.to/tv/msnbc-live-stream/  
+MTV,video://https://thetvapp.to/tv/mtv-live-stream/  
+Nat Geo WILD,video://https://thetvapp.to/tv/nat-geo-wild-live-stream/  
+National Geographic,video://https://thetvapp.to/tv/national-geographic-live-stream/  
+NBA TV,video://https://thetvapp.to/tv/nba-tv-live-stream/  
+Newsmax TV,video://https://thetvapp.to/tv/newsmax-tv/  
+NFL Network,video://https://thetvapp.to/tv/nfl-network-live-stream/  
+NFL Red Zone,video://https://thetvapp.to/tv/nfl-red-zone/  
+NHL Network,video://https://thetvapp.to/tv/nhl-network-live-stream/  
+Nick Jr.,video://https://thetvapp.to/tv/nick-jr-live-stream/  
+Nickelodeon East,video://https://thetvapp.to/tv/nickelodeon-east-live-stream/  
+Nicktoons,video://https://thetvapp.to/tv/nicktoons-live-stream/  
+Outdoor Channel,video://https://thetvapp.to/tv/outdoor-channel-live-stream/  
+OWN,video://https://thetvapp.to/tv/own-live-stream/ 
+Oxygen True Crime,video://https://thetvapp.to/tv/oxygen-true-crime-live-stream/  
+ReelzChannel,video://https://thetvapp.to/tv/reelzchannel-live-stream/  
+Science,video://https://thetvapp.to/tv/science-live-stream/  
+Showtime (E),video://https://thetvapp.to/tv/showtime-e-live-stream/  
+SHOWTIME 2,video://https://thetvapp.to/tv/showtime-2-live-stream/  
+STARZ East,video://https://thetvapp.to/tv/starz-east-live-stream/  
+SundanceTV HD,video://https://thetvapp.to/tv/sundancetv-hd-live-stream/  
+SYFY,video://https://thetvapp.to/tv/syfy-live-stream/  
+TBS,video://https://thetvapp.to/tv/tbs-live-stream/  
+TCM,video://https://thetvapp.to/tv/tcm-live-stream/  
+TeenNick,video://https://thetvapp.to/tv/teennick-live-stream/  
+Telemundo East,video://https://thetvapp.to/tv/telemundo-east-live-stream/  
+Tennis Channel,video://https://thetvapp.to/tv/tennis-channel-live-stream/  
+The Movie Channel East,video://https://thetvapp.to/tv/the-movie-channel-east-live-stream/  
+The Weather Channel,video://https://thetvapp.to/tv/the-weather-channel-live-stream/  
+TLC,video://https://thetvapp.to/tv/tlc-live-stream/  
+TNT,video://https://thetvapp.to/tv/tnt-live-stream/  
+Travel Channel,video://https://thetvapp.to/tv/travel-channel-live-stream/  
+truTV,video://https://thetvapp.to/tv/trutv-live-stream/  
+TV One HD,video://https://thetvapp.to/tv/tv-one-hd-live-stream/  
+Universal Kids,video://https://thetvapp.to/tv/universal-kids-live-stream/  
+Univision East,video://https://thetvapp.to/tv/univision-east-live-stream/  
+USA Network,video://https://thetvapp.to/tv/usa-network-live-stream/  
+VH1,video://https://thetvapp.to/tv/vh1-live-stream/  
+VICE,video://https://thetvapp.to/tv/vice-live-stream/  
+WABC (New York) ABC East,video://https://thetvapp.to/tv/wabc-new-york-abc-east-live-stream/  
+WCBS (New York) CBS East,video://https://thetvapp.to/tv/wcbs-new-york-cbs-east-live-stream/  
+WE tv,video://https://thetvapp.to/tv/we-tv-live-stream/  
+WNBC (New York) NBC East,video://https://thetvapp.to/tv/wnbc-new-york-nbc-east-live-stream/  
+WNYW (New York) FOX East,video://https://thetvapp.to/tv/wnyw-new-york-fox-east-live-stream/ 
