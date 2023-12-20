@@ -1,6 +1,4 @@
 ﻿Live TV,#genre#
-parse=1
-
 A&E,video://https://thetvapp.to/tv/ae-live-stream/  
 AMC,video://https://thetvapp.to/tv/amc-live-stream/  
 American Heroes Channel,video://https://thetvapp.to/tv/american-heroes-channel-live-stream/  
