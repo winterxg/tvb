@@ -13,6 +13,7 @@ Pluto Icons,https://pluto.tv/en/live-tv/64b585f84ea480000838e446
 TVBS新聞台,https://www.youtube.com/watch?v=2mCSYvcfhtc
 TVBSHD 56,https://www.youtube.com/watch?v=YvdcZ_jpLXE
 TVBS NEWS,https://www.youtube.com/watch?v=m_dhMSvUCIc
+TVBS新聞台HD,video://http://everydaytv.top/play-41-167-0.html
 東森新闻,https://www.youtube.com/watch?v=S5WOGu2HSes
 東森Live51,https://www.youtube.com/watch?v=E0zhe2gkXBs
 東森國際新聞,https://www.youtube.com/watch?v=6gXbFIaRJt0
