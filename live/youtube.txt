@@ -1,30 +1,8 @@
-4gtv,#genre#
-parse=1
-VOA美國之音,https://www.4gtv.tv/channel/litv-ftv03?set=1&ch=22
-新唐人亞太台,https://www.4gtv.tv/channel/4gtv-live050?set=1&ch=22
-半島國際新聞台,https://www.4gtv.tv/channel/litv-ftv10?set=1&ch=22
-ARIRANG阿里郎頻道,https://www.4gtv.tv/channel/4gtv-4gtv079?set=1&ch=22
-華視,https://www.4gtv.tv/channel/4gtv-4gtv041?set=1&ch=22
-民視,https://www.4gtv.tv/channel/4gtv-4gtv002?set=1&ch=22
-民視新聞台,https://www.4gtv.tv/channel/litv-ftv13?set=1&ch=22
-民視第一台,https://www.4gtv.tv/channel/4gtv-4gtv003?set=1&ch=22
-民視台灣台,https://www.4gtv.tv/channel/4gtv-4gtv001?set=1&ch=22
-民視影劇台,https://www.4gtv.tv/channel/litv-ftv09?set=1&ch=22
-民視綜藝台,https://www.4gtv.tv/channel/4gtv-4gtv004?set=1&ch=22
-民視旅遊台,https://www.4gtv.tv/channel/litv-ftv07?set=1&ch=22
-戲劇免費看 1台,https://www.4gtv.tv/channel/4gtv-live010?set=1&ch=22
-戲劇免費看 2台,https://www.4gtv.tv/channel/4gtv-live006?set=1&ch=22
-經典電影台,https://www.4gtv.tv/channel/4gtv-live021?set=1&ch=22
-電影免費看 1台,https://www.4gtv.tv/channel/4gtv-live013?set=1&ch=22
-電影免費看 2台,https://www.4gtv.tv/channel/4gtv-live005?set=1&ch=22
-超人力霸王整套看,https://www.4gtv.tv/channel/4gtv-live015?set=1&ch=22
-花系列 經典劇場,https://www.4gtv.tv/channel/4gtv-live016?set=1&ch=22
 🍅YouTube新闻,#genre#
 parse=1
 Pluto Spotlight,https://pluto.tv/en/live-tv/5ba3fb9c4b078e0f37ad34e8
 Pluto Icons,https://pluto.tv/en/live-tv/64b585f84ea480000838e446
 湖南电影,https://live.mgtv.com/?channelId=221
-民視第一台,https://www.4gtv.tv/channel/4gtv-4gtv003?set=4&ch=1
 凤凰卫视资讯台,https://www.histar.tv/live/phtv-info
 凤凰卫视中文台,https://www.histar.tv/live/phtv-cn
 鳳凰衛視資訊台,https://www.youtube.com/watch?v=Zm4i_rvAcxc
@@ -70,6 +48,30 @@ VOA美國之音,https://fake-stream.livednow.com/4gtv/litv-ftv03?token=4338e2953
 中視經典綜藝,https://www.youtube.com/watch?v=ADDSmXoPDY8
 豬哥會社,https://www.youtube.com/watch?v=htGDPsz2BYI
 TaiwanPlus,https://www.youtube.com/watch?v=dZp87qnWelE
+
+4gtv,#genre#
+parse=1
+ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+referer=https://www.4gtv.tv
+半島國際新聞台,https://www.4gtv.tv/channel/litv-ftv10?set=1&ch=22
+ARIRANG阿里郎頻道,https://www.4gtv.tv/channel/4gtv-4gtv079?set=1&ch=22
+VOA美國之音,https://www.4gtv.tv/channel/litv-ftv03?set=1&ch=22
+新唐人亞太台,https://www.4gtv.tv/channel/4gtv-live050?set=1&ch=22
+華視,https://www.4gtv.tv/channel/4gtv-4gtv041?set=1&ch=22
+民視,https://www.4gtv.tv/channel/4gtv-4gtv002?set=1&ch=22
+民視新聞台,https://www.4gtv.tv/channel/litv-ftv13?set=1&ch=22
+民視第一台,https://www.4gtv.tv/channel/4gtv-4gtv003?set=1&ch=22
+民視台灣台,https://www.4gtv.tv/channel/4gtv-4gtv001?set=1&ch=22
+民視影劇台,https://www.4gtv.tv/channel/litv-ftv09?set=1&ch=22
+民視綜藝台,https://www.4gtv.tv/channel/4gtv-4gtv004?set=1&ch=22
+民視旅遊台,https://www.4gtv.tv/channel/litv-ftv07?set=1&ch=22
+戲劇免費看 1台,https://www.4gtv.tv/channel/4gtv-live010?set=1&ch=22
+戲劇免費看 2台,https://www.4gtv.tv/channel/4gtv-live006?set=1&ch=22
+經典電影台,https://www.4gtv.tv/channel/4gtv-live021?set=1&ch=22
+電影免費看 1台,https://www.4gtv.tv/channel/4gtv-live013?set=1&ch=22
+電影免費看 2台,https://www.4gtv.tv/channel/4gtv-live005?set=1&ch=22
+超人力霸王整套看,https://www.4gtv.tv/channel/4gtv-live015?set=1&ch=22
+花系列 經典劇場,https://www.4gtv.tv/channel/4gtv-live016?set=1&ch=22
 
 🍅K-POP,#genre#
 THE K-POP,https://www.youtube.com/watch?v=JVocS7Yftw8
