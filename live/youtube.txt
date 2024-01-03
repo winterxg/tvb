@@ -1,4 +1,5 @@
 4gtv,#genre#
+parse=1
 VOA美國之音,https://m.4gtv.tv/channel/litv-ftv03?set=1&ch=22
 新唐人亞太台,https://m.4gtv.tv/channel/4gtv-live050?set=1&ch=22
 半島國際新聞台,https://www.4gtv.tv/channel/litv-ftv10?set=1&ch=22
