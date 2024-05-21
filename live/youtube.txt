@@ -3,8 +3,6 @@ parse=1
 Pluto Spotlight,https://pluto.tv/en/live-tv/5ba3fb9c4b078e0f37ad34e8
 Pluto Icons,https://pluto.tv/en/live-tv/64b585f84ea480000838e446
 湖南电影,https://live.mgtv.com/?channelId=221
-凤凰卫视资讯台,https://www.histar.tv/live/phtv-info
-凤凰卫视中文台,https://www.histar.tv/live/phtv-cn
 鳳凰衛視資訊台,https://www.youtube.com/watch?v=HFib76ySpbU
 中天新闻,https://www.youtube.com/watch?v=oIgbl7t0S_w
 中天新闻2台,https://www.youtube.com/watch?v=WPfPjbOLNfE
@@ -12,40 +10,24 @@ Pluto Icons,https://pluto.tv/en/live-tv/64b585f84ea480000838e446
 TVBS新聞台,https://www.youtube.com/watch?v=2mCSYvcfhtc
 TVBSHD 56,https://www.youtube.com/watch?v=YvdcZ_jpLXE
 TVBS NEWS,https://www.youtube.com/watch?v=m_dhMSvUCIc
-TVBS新聞台HD,video://http://everydaytv.top/play-41-167-0.html
 東森新闻,https://www.youtube.com/watch?v=S5WOGu2HSes
 東森Live51,https://www.youtube.com/watch?v=E0zhe2gkXBs
-東森國際新聞,https://www.youtube.com/watch?v=6gXbFIaRJt0
 三立Live,https://www.youtube.com/watch?v=FoBfXvlOR6I
 三立iNEWS,https://www.youtube.com/watch?v=CKjSm5ZeehE
 三立NEWS+,https://www.youtube.com/watch?v=oZdzzvxTfUY
-三立台灣台,video://http://everydaytv.top/play-41-146-0.html
-民視,video://http://everydaytv.top/play-41-126-0.html
 民视新闻台,https://www.youtube.com/watch?v=ylYJSBUgaMA
-民視第一台,video://http://everydaytv.top/play-41-127-0.html
-民視台灣台,video://http://everydaytv.top/play-41-129-0.html
 鏡新闻,https://www.youtube.com/watch?v=5n0y6b0Q25o
-壹新聞,video://http://everydaytv.top/play-41-185-0.html
-公視,video://http://everydaytv.top/play-41-70-0.html
 公視新聞網,https://www.youtube.com/watch?v=quwqlazU-c8
-中視,video://http://everydaytv.top/play-41-190-0.html
 中视新闻,https://www.youtube.com/watch?v=TCnaIE_SAtM
-台視,video://http://everydaytv.top/play-41-158-0.html
 台视新闻,https://www.youtube.com/watch?v=xL0ch83RAK8
 华视新闻,https://www.youtube.com/watch?v=wM0g8EoUZ_E
-華視,video://http://everydaytv.top/play-41-86-0.html
-華視新聞資訊,video://http://everydaytv.top/play-41-87-0.html
 華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
-年代新聞,video://http://everydaytv.top/play-41-139-0.html
-非凡新聞,video://http://everydaytv.top/play-41-62-0.html
 寰宇新闻台,https://www.youtube.com/watch?v=6IquAgfvYmc
 寰宇台灣台,https://www.youtube.com/watch?v=w87VGpgd90U
-寰宇新聞台灣台,https://fake-stream.livednow.com/4gtv/280?token=d0c34076355b09256a62777348f9af4a
 東森財經新聞,https://www.youtube.com/watch?v=WHEPzbFA3hw
 东森财经股市,https://www.youtube.com/watch?v=LbS-xQ67fos
 寰宇財經台,https://www.youtube.com/watch?v=25SE1bbTv9k
 新唐人亞太,https://www.youtube.com/watch?v=WIhgU_mc05A
-VOA美國之音,https://fake-stream.livednow.com/4gtv/litv-ftv03?token=4338e29534b95659f94b7a6817dab525
 中視經典綜藝,https://www.youtube.com/watch?v=ADDSmXoPDY8
 豬哥會社,https://www.youtube.com/watch?v=htGDPsz2BYI
 TaiwanPlus,https://www.youtube.com/watch?v=dZp87qnWelE
