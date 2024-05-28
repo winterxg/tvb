@@ -23,7 +23,6 @@ TVBS NEWS,https://www.youtube.com/watch?v=m_dhMSvUCIc
 公视台语,https://www.youtube.com/watch?v=6KlRR_DGhmI
 中视新闻,https://www.youtube.com/watch?v=TCnaIE_SAtM
 台视新闻,https://www.youtube.com/watch?v=xL0ch83RAK8
-华视新闻,https://www.youtube.com/watch?v=wM0g8EoUZ_E
 華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
 寰宇新闻台,https://www.youtube.com/watch?v=6IquAgfvYmc
 寰宇台灣台,https://www.youtube.com/watch?v=w87VGpgd90U
