@@ -13,6 +13,7 @@ TVBS NEWS,https://www.youtube.com/watch?v=m_dhMSvUCIc
 #私有東森新闻,https://www.youtube.com/watch?v=S5WOGu2HSes
 東森Live51,https://www.youtube.com/watch?v=E0zhe2gkXBs
 東森Live,https://www.youtube.com/watch?v=LuQ4S-i5zoE
+三立新闻,https://www.youtube.com/watch?v=4apvqyfCXl0
 三立Live,https://www.youtube.com/watch?v=FoBfXvlOR6I
 三立iNEWS,https://www.youtube.com/watch?v=CKjSm5ZeehE
 三立NEWS+,https://www.youtube.com/watch?v=oZdzzvxTfUY
@@ -26,13 +27,16 @@ TVBS NEWS,https://www.youtube.com/watch?v=m_dhMSvUCIc
 華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
 寰宇新闻台,https://www.youtube.com/watch?v=6IquAgfvYmc
 寰宇台灣台,https://www.youtube.com/watch?v=w87VGpgd90U
+重案聊天室,https://www.youtube.com/watch?v=0qb7ND0_E6k
 東森財經新聞,https://www.youtube.com/watch?v=WHEPzbFA3hw
 东森财经股市,https://www.youtube.com/watch?v=LbS-xQ67fos
 寰宇財經台,https://www.youtube.com/watch?v=25SE1bbTv9k
 新唐人亞太,https://www.youtube.com/watch?v=WIhgU_mc05A
 新唐人亞太2,https://www.youtube.com/@NTDAPTV/live
+大陸尋奇,https://www.youtube.com/watch?v=fl1iFkAWcVU
 中視經典綜藝,https://www.youtube.com/watch?v=ADDSmXoPDY8
 豬哥會社,https://www.youtube.com/watch?v=htGDPsz2BYI
+掌声响起,https://www.youtube.com/watch?v=EVATvtQHjyg
 TaiwanPlus,https://www.youtube.com/watch?v=dZp87qnWelE
 ABC News,https://www.youtube.com/live/-mvUkiILTqI
 
