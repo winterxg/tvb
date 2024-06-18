@@ -10,7 +10,7 @@ Pluto Icons,https://pluto.tv/en/live-tv/64b585f84ea480000838e446
 TVBS新聞台,https://www.youtube.com/watch?v=2mCSYvcfhtc
 TVBSHD 56,https://www.youtube.com/watch?v=YvdcZ_jpLXE
 TVBS NEWS,https://www.youtube.com/watch?v=m_dhMSvUCIc
-東森新闻,https://www.youtube.com/watch?v=S5WOGu2HSes
+#私有東森新闻,https://www.youtube.com/watch?v=S5WOGu2HSes
 東森Live51,https://www.youtube.com/watch?v=E0zhe2gkXBs
 東森Live,https://www.youtube.com/watch?v=LuQ4S-i5zoE
 三立Live,https://www.youtube.com/watch?v=FoBfXvlOR6I
@@ -30,6 +30,7 @@ TVBS NEWS,https://www.youtube.com/watch?v=m_dhMSvUCIc
 东森财经股市,https://www.youtube.com/watch?v=LbS-xQ67fos
 寰宇財經台,https://www.youtube.com/watch?v=25SE1bbTv9k
 新唐人亞太,https://www.youtube.com/watch?v=WIhgU_mc05A
+新唐人亞太2,https://www.youtube.com/@NTDAPTV/live
 中視經典綜藝,https://www.youtube.com/watch?v=ADDSmXoPDY8
 豬哥會社,https://www.youtube.com/watch?v=htGDPsz2BYI
 TaiwanPlus,https://www.youtube.com/watch?v=dZp87qnWelE
