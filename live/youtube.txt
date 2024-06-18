@@ -34,8 +34,7 @@ TVBS NEWS,https://www.youtube.com/watch?v=m_dhMSvUCIc
 中視經典綜藝,https://www.youtube.com/watch?v=ADDSmXoPDY8
 豬哥會社,https://www.youtube.com/watch?v=htGDPsz2BYI
 TaiwanPlus,https://www.youtube.com/watch?v=dZp87qnWelE
-正德电视台,https://www.youtube.com/watch?v=AfcVHGIRbP8
-爱尔达影剧,https://www.youtube.com/watch?v=be6L9zpVqw4
+ABC News,https://www.youtube.com/live/-mvUkiILTqI
 
 4gtv,#genre#
 parse=1
