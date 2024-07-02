@@ -1,7 +1,7 @@
 🍅YouTube新闻,#genre#
 parse=1
-Pluto Spotlight,https://pluto.tv/en/live-tv/5ba3fb9c4b078e0f37ad34e8
-Pluto Icons,https://pluto.tv/en/live-tv/64b585f84ea480000838e446
+Pluto Spotlight,https://pluto.tv/us/live-tv/5ba3fb9c4b078e0f37ad34e8
+Pluto Icons,https://pluto.tv/us/live-tv/64b585f84ea480000838e446
 湖南电影,https://live.mgtv.com/?channelId=221
 鳳凰衛視資訊台,https://www.youtube.com/watch?v=HFib76ySpbU
 鳳凰衛視資訊台2,https://m.youtube.com/@phoenixtvhk/live
