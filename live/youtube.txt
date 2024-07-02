@@ -11,10 +11,9 @@ Pluto Icons,https://pluto.tv/en/live-tv/64b585f84ea480000838e446
 TVBS新聞台,https://www.youtube.com/watch?v=2mCSYvcfhtc
 TVBSHD 56,https://www.youtube.com/watch?v=YvdcZ_jpLXE
 TVBS NEWS,https://www.youtube.com/watch?v=m_dhMSvUCIc
-#私有東森新闻,https://www.youtube.com/watch?v=S5WOGu2HSes
+#東森新闻私有,https://www.youtube.com/watch?v=S5WOGu2HSes
 東森Live51,https://www.youtube.com/watch?v=E0zhe2gkXBs
 東森Live,https://www.youtube.com/watch?v=LuQ4S-i5zoE
-三立新闻,https://www.youtube.com/watch?v=4apvqyfCXl0
 三立Live,https://www.youtube.com/watch?v=FoBfXvlOR6I
 三立iNEWS,https://www.youtube.com/watch?v=CKjSm5ZeehE
 三立NEWS+,https://www.youtube.com/watch?v=oZdzzvxTfUY
