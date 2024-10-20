@@ -3,6 +3,7 @@ parse=1
 Pluto Spotlight,https://pluto.tv/us/live-tv/5ba3fb9c4b078e0f37ad34e8
 Pluto Icons,https://pluto.tv/us/live-tv/64b585f84ea480000838e446
 USA TODAY,https://www.youtube.com/watch?v=vZYMwAm8sso
+NEWSMAX2,https://www.youtube.com/watch?v=ANDE3adJUzs
 Sky News,https://www.youtube.com/watch?v=oJUvTVdTMyY
 CNN-News18,https://www.youtube.com/watch?v=ri-0YCf_rTw
 Euronews,https://www.youtube.com/watch?v=pykpO5kQJ98
