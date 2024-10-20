@@ -5,6 +5,7 @@ Pluto Icons,https://pluto.tv/us/live-tv/64b585f84ea480000838e446
 USA TODAY,https://www.youtube.com/watch?v=vZYMwAm8sso
 Sky News,https://www.youtube.com/watch?v=oJUvTVdTMyY
 CNN-News18,https://www.youtube.com/watch?v=ri-0YCf_rTw
+Euronews,https://www.youtube.com/watch?v=pykpO5kQJ98
 FRANCE 24,https://www.youtube.com/watch?v=Ap-UM1O9RBU
 DW News,https://www.youtube.com/watch?v=tZT2MCYu6Zw
 Al Jazeera,https://www.youtube.com/watch?v=gCNeDWCI0vo
