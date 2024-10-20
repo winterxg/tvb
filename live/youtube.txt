@@ -1,20 +1,29 @@
 🍅YouTube新闻,#genre#
-parse=1
 Pluto Spotlight,https://pluto.tv/us/live-tv/5ba3fb9c4b078e0f37ad34e8
 Pluto Icons,https://pluto.tv/us/live-tv/64b585f84ea480000838e446
+THE K-POP,https://www.youtube.com/watch?v=JVocS7Yftw8
 Practice for Beginners,https://www.youtube.com/watch?v=YKbsuWgY0GI
 English Listening Practice,https://www.youtube.com/watch?v=PBaYZ7xWfFU
 Learning Podcast Episode 01,https://www.youtube.com/watch?v=ZivbWxBMgxk
-Speak English,https://www.youtube.com/watch?v=rKn4EQ3-Ns0
+Learning Podcast Episode 02,https://www.youtube.com/watch?v=fq8FgJqkamE
 The BEST SPEECHES Ever,https://www.youtube.com/watch?v=Qeg-4kS9Hbo
 Listening Practice Level 1,https://www.youtube.com/watch?v=n4kh4zEIRAM
 Listening Practice Level 2,https://www.youtube.com/watch?v=vuTY4FDAbpA
 Listening Practice Level 3,https://www.youtube.com/watch?v=0ghiju-JK8o
 Listening Practice Level 4,https://www.youtube.com/watch?v=OXmnrfj2ERc
+English Listening Skills,https://www.youtube.com/watch?v=orKNfaChbSk
 Listening English Practice Level 6,https://www.youtube.com/watch?v=tabVA7bEhSc
 Conversation PracticeImprove Vocabulary,https://www.youtube.com/watch?v=9trVsaQ_-Zk
 English Conversation Between Two Friend,https://www.youtube.com/watch?v=UPcJatFqRj4
 Conversation Practice,https://www.youtube.com/watch?v=HFXo6GSQUSM
+5000 Daily Use English Phrases,https://www.youtube.com/watch?v=k6TK31KmpOk
+Learn English with News,https://www.youtube.com/watch?v=xR7qcezLcXI
+Level 3 - History of the USA,https://www.youtube.com/watch?v=K9W6v57l6Ag
+Level 3 - Aesop's Fables,https://www.youtube.com/watch?v=4aqjFp1o9iE
+Level 3 - Beauty's Sacrifice,https://www.youtube.com/watch?v=HdGN08QZqlY
+Level 3 - How I Killed A Bear,https://www.youtube.com/watch?v=6WqxHy9-0tE
+The BEST American Speeches (English Subtitles),https://www.youtube.com/watch?v=k_2FA6vyOgM
+EnglishClass101 TV,https://www.youtube.com/watch?v=rKn4EQ3-Ns0
 National Geographic,https://www.youtube.com/watch?v=CvdS4biecPk
 Nat Geo WILD,https://www.youtube.com/watch?v=BJ3Yv572V1A
 ABC News,https://www.youtube.com/watch?v=-mvUkiILTqI
