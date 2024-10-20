@@ -36,6 +36,7 @@ Al Jazeera,https://www.youtube.com/watch?v=gCNeDWCI0vo
 TRT World,https://www.youtube.com/watch?v=s-5FP3oYYas
 KBS KOREA,https://www.youtube.com/watch?v=OxQQsIvJTTU
 NHK WORLD,https://www.youtube.com/watch?v=f0lYkdA-Gtw
+JapaNews24,https://www.youtube.com/watch?v=coYw-eVU0Ks
 Speak Japanese,https://www.youtube.com/watch?v=mSIr6VppC0o
 CNA,https://www.youtube.com/watch?v=XWq5kBlakcQ
 Africanews,https://www.youtube.com/watch?v=NQjabLGdP5g
