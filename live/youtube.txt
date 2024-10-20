@@ -8,6 +8,7 @@ ABC News,https://www.youtube.com/watch?v=-mvUkiILTqI
 LiveNOW from FOX,https://www.youtube.com/watch?v=YDfiTGGPYCk
 USA TODAY,https://www.youtube.com/watch?v=vZYMwAm8sso
 NEWSMAX2,https://www.youtube.com/watch?v=ANDE3adJUzs
+ABC7 SWFL,https://www.youtube.com/watch?v=eXZ4-qp16nI
 CNN-News18,https://www.youtube.com/watch?v=ri-0YCf_rTw
 News 12 New York,https://www.youtube.com/watch?v=1GkcsMJTFiI
 Sky News,https://www.youtube.com/watch?v=oJUvTVdTMyY
@@ -22,6 +23,7 @@ Oneindia News,https://www.youtube.com/watch?v=-LDPZfFcJCY
 Al Jazeera,https://www.youtube.com/watch?v=gCNeDWCI0vo
 TRT World,https://www.youtube.com/watch?v=s-5FP3oYYas
 CNA,https://www.youtube.com/watch?v=XWq5kBlakcQ
+Africanews,https://www.youtube.com/watch?v=NQjabLGdP5g
 CCTV中文国际,https://www.youtube.com/watch?v=twhG7_jvA8g
 鳳凰衛視資訊台,https://www.youtube.com/watch?v=HFib76ySpbU
 鳳凰衛視資訊台2,https://m.youtube.com/@phoenixtvhk/live
