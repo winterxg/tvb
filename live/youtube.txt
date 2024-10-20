@@ -2,13 +2,16 @@
 parse=1
 Pluto Spotlight,https://pluto.tv/us/live-tv/5ba3fb9c4b078e0f37ad34e8
 Pluto Icons,https://pluto.tv/us/live-tv/64b585f84ea480000838e446
+National Geographic,https://www.youtube.com/watch?v=CvdS4biecPk
 ABC News,https://www.youtube.com/watch?v=-mvUkiILTqI
 LiveNOW from FOX,https://www.youtube.com/watch?v=YDfiTGGPYCk
 USA TODAY,https://www.youtube.com/watch?v=vZYMwAm8sso
 NEWSMAX2,https://www.youtube.com/watch?v=ANDE3adJUzs
+CNN-News18,https://www.youtube.com/watch?v=ri-0YCf_rTw
 News 12 New York,https://www.youtube.com/watch?v=1GkcsMJTFiI
 Sky News,https://www.youtube.com/watch?v=oJUvTVdTMyY
-CNN-News18,https://www.youtube.com/watch?v=ri-0YCf_rTw
+GB News,https://www.youtube.com/watch?v=8WX6YL9JnLw
+TalkTV,https://www.youtube.com/watch?v=DFYaNjzI1aI
 TIMES NOW,https://www.youtube.com/watch?v=0S46SsugRNY
 Euronews,https://www.youtube.com/watch?v=pykpO5kQJ98
 FRANCE 24,https://www.youtube.com/watch?v=Ap-UM1O9RBU
