@@ -6,6 +6,7 @@ ABC News,https://www.youtube.com/watch?v=-mvUkiILTqI
 LiveNOW from FOX,https://www.youtube.com/watch?v=YDfiTGGPYCk
 USA TODAY,https://www.youtube.com/watch?v=vZYMwAm8sso
 NEWSMAX2,https://www.youtube.com/watch?v=ANDE3adJUzs
+News 12 New York,https://www.youtube.com/watch?v=1GkcsMJTFiI
 Sky News,https://www.youtube.com/watch?v=oJUvTVdTMyY
 CNN-News18,https://www.youtube.com/watch?v=ri-0YCf_rTw
 TIMES NOW,https://www.youtube.com/watch?v=0S46SsugRNY
