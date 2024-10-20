@@ -3,9 +3,11 @@ parse=1
 Pluto Spotlight,https://pluto.tv/us/live-tv/5ba3fb9c4b078e0f37ad34e8
 Pluto Icons,https://pluto.tv/us/live-tv/64b585f84ea480000838e446
 USA TODAY,https://www.youtube.com/watch?v=vZYMwAm8sso
+Sky News,https://www.youtube.com/watch?v=oJUvTVdTMyY
 FRANCE 24,https://www.youtube.com/watch?v=Ap-UM1O9RBU
 DW News,https://www.youtube.com/watch?v=tZT2MCYu6Zw
 Al Jazeera,https://www.youtube.com/watch?v=gCNeDWCI0vo
+TRT World,https://www.youtube.com/watch?v=s-5FP3oYYas
 CCTV中文国际,https://www.youtube.com/watch?v=twhG7_jvA8g
 鳳凰衛視資訊台,https://www.youtube.com/watch?v=HFib76ySpbU
 鳳凰衛視資訊台2,https://m.youtube.com/@phoenixtvhk/live
