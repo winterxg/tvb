@@ -3,14 +3,17 @@ parse=1
 Pluto Spotlight,https://pluto.tv/us/live-tv/5ba3fb9c4b078e0f37ad34e8
 Pluto Icons,https://pluto.tv/us/live-tv/64b585f84ea480000838e446
 Practice for Beginners,https://www.youtube.com/watch?v=YKbsuWgY0GI
+English Listening Practice,https://www.youtube.com/watch?v=PBaYZ7xWfFU
+Learning Podcast Episode 01,https://www.youtube.com/watch?v=ZivbWxBMgxk
 Speak English,https://www.youtube.com/watch?v=rKn4EQ3-Ns0
+The BEST SPEECHES Ever,https://www.youtube.com/watch?v=Qeg-4kS9Hbo
 Listening Practice Level 1,https://www.youtube.com/watch?v=n4kh4zEIRAM
 Listening Practice Level 2,https://www.youtube.com/watch?v=vuTY4FDAbpA
 Listening Practice Level 3,https://www.youtube.com/watch?v=0ghiju-JK8o
 Listening Practice Level 4,https://www.youtube.com/watch?v=OXmnrfj2ERc
 Listening English Practice Level 6,https://www.youtube.com/watch?v=tabVA7bEhSc
 Conversation PracticeImprove Vocabulary,https://www.youtube.com/watch?v=9trVsaQ_-Zk
-English Speeches,https://www.youtube.com/watch?v=Qeg-4kS9Hbo
+English Conversation Between Two Friend,https://www.youtube.com/watch?v=UPcJatFqRj4
 Conversation Practice,https://www.youtube.com/watch?v=HFXo6GSQUSM
 National Geographic,https://www.youtube.com/watch?v=CvdS4biecPk
 Nat Geo WILD,https://www.youtube.com/watch?v=BJ3Yv572V1A
