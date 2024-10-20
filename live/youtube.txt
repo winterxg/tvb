@@ -26,6 +26,7 @@ DW News,https://www.youtube.com/watch?v=tZT2MCYu6Zw
 Oneindia News,https://www.youtube.com/watch?v=-LDPZfFcJCY
 Al Jazeera,https://www.youtube.com/watch?v=gCNeDWCI0vo
 TRT World,https://www.youtube.com/watch?v=s-5FP3oYYas
+NHK WORLD,https://www.youtube.com/watch?v=f0lYkdA-Gtw
 CNA,https://www.youtube.com/watch?v=XWq5kBlakcQ
 Africanews,https://www.youtube.com/watch?v=NQjabLGdP5g
 CCTV中文国际,https://www.youtube.com/watch?v=twhG7_jvA8g
