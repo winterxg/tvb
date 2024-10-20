@@ -3,6 +3,7 @@ parse=1
 Pluto Spotlight,https://pluto.tv/us/live-tv/5ba3fb9c4b078e0f37ad34e8
 Pluto Icons,https://pluto.tv/us/live-tv/64b585f84ea480000838e446
 National Geographic,https://www.youtube.com/watch?v=CvdS4biecPk
+Nat Geo WILD,https://www.youtube.com/watch?v=BJ3Yv572V1A
 ABC News,https://www.youtube.com/watch?v=-mvUkiILTqI
 LiveNOW from FOX,https://www.youtube.com/watch?v=YDfiTGGPYCk
 USA TODAY,https://www.youtube.com/watch?v=vZYMwAm8sso
@@ -13,12 +14,14 @@ Sky News,https://www.youtube.com/watch?v=oJUvTVdTMyY
 GB News,https://www.youtube.com/watch?v=8WX6YL9JnLw
 TalkTV,https://www.youtube.com/watch?v=DFYaNjzI1aI
 TIMES NOW,https://www.youtube.com/watch?v=0S46SsugRNY
+ABC News (Australia),https://www.youtube.com/watch?v=vOTiJkg1voo
 Euronews,https://www.youtube.com/watch?v=pykpO5kQJ98
 FRANCE 24,https://www.youtube.com/watch?v=Ap-UM1O9RBU
 DW News,https://www.youtube.com/watch?v=tZT2MCYu6Zw
 Oneindia News,https://www.youtube.com/watch?v=-LDPZfFcJCY
 Al Jazeera,https://www.youtube.com/watch?v=gCNeDWCI0vo
 TRT World,https://www.youtube.com/watch?v=s-5FP3oYYas
+CNA,https://www.youtube.com/watch?v=XWq5kBlakcQ
 CCTV中文国际,https://www.youtube.com/watch?v=twhG7_jvA8g
 鳳凰衛視資訊台,https://www.youtube.com/watch?v=HFib76ySpbU
 鳳凰衛視資訊台2,https://m.youtube.com/@phoenixtvhk/live
