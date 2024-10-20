@@ -1,12 +1,15 @@
 🍅YouTube新闻,#genre#
 Pluto Spotlight,https://pluto.tv/us/live-tv/5ba3fb9c4b078e0f37ad34e8
 Pluto Icons,https://pluto.tv/us/live-tv/64b585f84ea480000838e446
+K-POP Girl Group,https://www.youtube.com/watch?v=G3NX_hzCuFM
 THE K-POP,https://www.youtube.com/watch?v=JVocS7Yftw8
+THE K-POP2,https://www.youtube.com/watch?v=28G3W8j9BEg
 Practice for Beginners,https://www.youtube.com/watch?v=YKbsuWgY0GI
 English Listening Practice,https://www.youtube.com/watch?v=PBaYZ7xWfFU
 Learning Podcast Episode 01,https://www.youtube.com/watch?v=ZivbWxBMgxk
 Learning Podcast Episode 02,https://www.youtube.com/watch?v=fq8FgJqkamE
 The BEST SPEECHES Ever,https://www.youtube.com/watch?v=Qeg-4kS9Hbo
+Listening English Practice Level 1,https://www.youtube.com/watch?v=RBk9IQnuTYg
 Listening Practice Level 1,https://www.youtube.com/watch?v=n4kh4zEIRAM
 Listening Practice Level 2,https://www.youtube.com/watch?v=vuTY4FDAbpA
 Listening Practice Level 3,https://www.youtube.com/watch?v=0ghiju-JK8o
@@ -43,17 +46,25 @@ Sky News,https://www.youtube.com/watch?v=oJUvTVdTMyY
 GB News,https://www.youtube.com/watch?v=8WX6YL9JnLw
 TalkTV,https://www.youtube.com/watch?v=DFYaNjzI1aI
 TIMES NOW,https://www.youtube.com/watch?v=0S46SsugRNY
+ABC30 Central CA,https://www.youtube.com/watch?v=xvnAGbGs_o4
 ABC News (Australia),https://www.youtube.com/watch?v=vOTiJkg1voo
 Euronews,https://www.youtube.com/watch?v=pykpO5kQJ98
 FRANCE 24,https://www.youtube.com/watch?v=Ap-UM1O9RBU
 DW News,https://www.youtube.com/watch?v=tZT2MCYu6Zw
+WION,https://www.youtube.com/watch?v=gadjsB5BkK4
 Oneindia News,https://www.youtube.com/watch?v=-LDPZfFcJCY
+DD India,https://www.youtube.com/watch?v=YBjFiT-uR9Q
 Al Jazeera,https://www.youtube.com/watch?v=gCNeDWCI0vo
 TRT World,https://www.youtube.com/watch?v=s-5FP3oYYas
+Arirang TV,https://www.youtube.com/watch?v=CJVBX7KI5nU
 KBS KOREA,https://www.youtube.com/watch?v=OxQQsIvJTTU
+YonhapnewsTV,https://www.youtube.com/watch?v=6QZ_qc75ihU
 NHK WORLD,https://www.youtube.com/watch?v=f0lYkdA-Gtw
 JapaNews24,https://www.youtube.com/watch?v=coYw-eVU0Ks
 Speak Japanese,https://www.youtube.com/watch?v=mSIr6VppC0o
+Tokyo Walk,https://www.youtube.com/watch?v=cH7VBI4QQzA
+歌舞伎町,https://www.youtube.com/watch?v=gFRtAAmiFbE
+歌舞伎町2,https://www.youtube.com/watch?v=DjdUEyjx8GM
 CNA,https://www.youtube.com/watch?v=XWq5kBlakcQ
 Africanews,https://www.youtube.com/watch?v=NQjabLGdP5g
 CCTV中文国际,https://www.youtube.com/watch?v=twhG7_jvA8g
