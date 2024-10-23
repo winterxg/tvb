@@ -49,6 +49,7 @@ TIMES NOW,https://www.youtube.com/watch?v=0S46SsugRNY
 ABC30 Central CA,https://www.youtube.com/watch?v=xvnAGbGs_o4
 ABC News (Australia),https://www.youtube.com/watch?v=vOTiJkg1voo
 Euronews,https://www.youtube.com/watch?v=pykpO5kQJ98
+CGTN Europe News,https://www.youtube.com/watch?v=pd3CgRzcQdA
 FRANCE 24,https://www.youtube.com/watch?v=Ap-UM1O9RBU
 DW News,https://www.youtube.com/watch?v=tZT2MCYu6Zw
 WION,https://www.youtube.com/watch?v=gadjsB5BkK4
