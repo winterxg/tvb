@@ -87,6 +87,7 @@ TVBS NEWS,https://www.youtube.com/watch?v=m_dhMSvUCIc
 TVBS 新闻,https://www.youtube.com/c/TVBSNEWS01/live
 #東森新闻,https://www.youtube.com/watch?v=S5WOGu2HSes
 东森新闻HD,http://37.27.111.214:8080/live/20/hls.m3u8
+东森新闻HD2,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8540/.m3u8
 東森Live51,https://www.youtube.com/watch?v=E0zhe2gkXBs
 東森Live,https://www.youtube.com/watch?v=V1p33hqPrUk
 #東森Live2,https://www.youtube.com/watch?v=LuQ4S-i5zoE
@@ -99,6 +100,7 @@ TVBS 新闻,https://www.youtube.com/c/TVBSNEWS01/live
 三立NEWS+2,https://www.youtube.com/c/三立LIVE新聞/live
 民视新闻台,https://www.youtube.com/watch?v=ylYJSBUgaMA
 鏡新闻,https://www.youtube.com/watch?v=5n0y6b0Q25o
+壹新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8548/.m3u8
 公視,http://211.23.114.106:8505/http/61.221.81.94:8088/hls/73/815/ch50.m3u8
 公視新聞網,https://www.youtube.com/watch?v=quwqlazU-c8
 #公視,https://www.youtube.com/watch?v=C6gYqSHLRw4
