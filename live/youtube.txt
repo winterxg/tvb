@@ -78,6 +78,7 @@ CCTV中文国际,https://www.youtube.com/watch?v=twhG7_jvA8g
 中天新闻2台,https://www.youtube.com/watch?v=WPfPjbOLNfE
 #中天亞洲台,https://www.youtube.com/watch?v=s2waUruqze4
 #中天亞洲台2,https://www.youtube.com/watch?v=PYtGQvNmadg
+TVBS新闻台HD,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 TVBSHD 56,https://www.youtube.com/watch?v=o_-hSMgpAzs
 TVBS新聞台,https://www.youtube.com/watch?v=2mCSYvcfhtc
 TVBS NEWS,https://www.youtube.com/watch?v=m_dhMSvUCIc
